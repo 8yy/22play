@@ -1,0 +1,7 @@
+token =NTI0OTM4ODU5NDQwNjM1OTM1.D0cxBg.QpS5EHoR4WxOYEkpdqM-yTqrMGQ
+owner =399976858667450370
+prefix="i"
+game="Listening to iplay"
+status=idle
+songinstatus=false
+stayinchannel=true
