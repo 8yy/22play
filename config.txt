@@ -1,7 +1,7 @@
 token =NTY3MzA4NjY1Njg2NTg5NDQw.XLR87w.BQPg3sx6ieTyBSeHmBfSePGldCU
 owner =399976858667450370
-prefix=".l"
-game="Listening to .lplay"
+prefix="p"
+game="Listening to pplay"
 status=idle
 songinstatus=false
 stayinchannel=true
