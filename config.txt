@@ -1,7 +1,7 @@
-token =NTY3MzA4NjY1Njg2NTg5NDQw.XLR87w.BQPg3sx6ieTyBSeHmBfSePGldCU
-owner =399976858667450370
-prefix="p"
-game="Listening to pplay"
+token =Njg5NDcxNzU5NTQ3ODkxNzMx.XnDXKg.9GKESHD7psIA9mvHAgPUomCL92Y
+owner =614518643514146818
+prefix="."
+game="Listening to @i2Avatar"
 status=idle
 songinstatus=false
 stayinchannel=true
