@@ -1,7 +1,6 @@
-token =Njg5NDcxNzU5NTQ3ODkxNzMx.XnDXKg.9GKESHD7psIA9mvHAgPUomCL92Y
-owner =614518643514146818
-prefix="."
-game="Listening to @i2Avatar"
+token=Njg5NDcxNzU5NTQ3ODkxNzMx.XnHdTQ.FWeJW0K_EEtY14ksoKa87Fam3vs
+owner=614518643514146818
+prefix=S
 status=idle
-songinstatus=false
 stayinchannel=true
+updatealerts=false
